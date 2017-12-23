@@ -4,4 +4,4 @@ A simple Matlab project to find and list all right truncatable primes (https://e
 
 The GNU Octave here refers to GNU Octave 4.2.1 on 64-bit Windows 10.
 
-For more information, please check out the Wordpress page in https://tungcyang.wordpress.com/.
+For more information, please check out the Wordpress page in https://tungcyang.wordpress.com/2017/12/23/finding-right-truncatable-primes-in-gnu-octave/.
